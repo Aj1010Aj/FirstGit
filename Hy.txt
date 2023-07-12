@@ -1,1 +1,2 @@
 hi this is git program
+am going to update some in this file for 2nd time
