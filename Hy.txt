@@ -1,3 +1,4 @@
 hi this is git program
 am going to update some in this file for 2nd time
 editing to see the different type of merging (on master keeto)
+modify the file for email update
